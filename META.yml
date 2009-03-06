@@ -1,0 +1,22 @@
+---
+abstract: 'Sound files of japanese syllables for use with L<Quiz::Flashcards>'
+author:
+  - 'Christian Walde <mithaldu@yahoo.de>'
+build_requires:
+  ExtUtils::MakeMaker: 6.11
+  Test::More: 0
+distribution_type: module
+generated_by: 'Module::Install version 0.79'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Quiz-Flashcards-Audiobanks-Japanese_Syllables
+no_index:
+  directory:
+    - inc
+    - share
+    - t
+resources:
+  license: http://dev.perl.org/licenses/
+version: 0.01
